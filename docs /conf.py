@@ -1,5 +1,5 @@
-project = 'duckduckgo-login'
-author = 'duckduckgo-login'
+project = 'privatesearchengine'
+author = 'privatesearchengine'
 release = '1.0'
 
 # Extensions
