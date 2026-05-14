@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://privatesearchengine.readthedocs.io/en/latest/
